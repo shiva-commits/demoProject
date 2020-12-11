@@ -12,7 +12,7 @@ public class collectionDemo {
 
 		for (int i = 0; i < a.length; i++) {
 			int k = 0;
-			if (!ab.contains(a[i])) {
+			if (!ab.contains(a[i])) {  //test
 
 				ab.add(a[i]);
 				k++;
